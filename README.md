@@ -25,13 +25,10 @@ I believe we must separate **"Existence"** (Permissionless write) from **"Meanin
 If you want to discuss the protocol, math, or the future of the Web:
 
 * **Email:** `KusaNekoLabo@proton.me
-* **Repo Issues:** [Kusaneko-Memoria/memoria-protocol](https://github.com/Kusaneko-Memoria/memoria-protocol/issues)
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kusaneko-Memoria&show_icons=true&theme=graywhite&hide_border=true" alt="Kusaneko's GitHub stats" />
-</p>
+
 
 <sub>
 Keywords: Decentralized Protocol, Sybil Resistance, Proof of Resonance, Local-First, Web0, Mathematics, Event-Sourcing
